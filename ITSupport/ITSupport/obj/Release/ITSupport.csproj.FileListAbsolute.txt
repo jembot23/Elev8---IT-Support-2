@@ -1,0 +1,5 @@
+C:\Users\Elev8-test\documents\visual studio 2012\Projects\ITSupport\ITSupport\bin\ITSupport.dll
+C:\Users\Elev8-test\documents\visual studio 2012\Projects\ITSupport\ITSupport\bin\ITSupport.pdb
+C:\Users\Elev8-test\documents\visual studio 2012\Projects\ITSupport\ITSupport\obj\Release\ITSupport.csprojResolveAssemblyReference.cache
+C:\Users\Elev8-test\documents\visual studio 2012\Projects\ITSupport\ITSupport\obj\Release\ITSupport.dll
+C:\Users\Elev8-test\documents\visual studio 2012\Projects\ITSupport\ITSupport\obj\Release\ITSupport.pdb

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ITSupport.dll">
+      <publishTime>07/25/2016 11:10:12</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-table.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-theme.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-theme.css.map">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap-theme.min.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.css.map">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/bootstrap.min.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/datepicker.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/datepicker3.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/login.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/styles.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="CSS/w3.css">
+      <publishTime>07/21/2016 15:15:02</publishTime>
+    </File>
+    <File Include="Images/city-skyline-wallpapers-008.jpg">
+      <publishTime>07/21/2016 15:46:04</publishTime>
+    </File>
+    <File Include="ITSupport.aspx">
+      <publishTime>07/25/2016 10:59:48</publishTime>
+    </File>
+    <File Include="js/bootstrap-datepicker.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/bootstrap-table.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/chart-data.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/chart.min.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/easypiechart-data.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/easypiechart.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/html5shiv.min.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/jquery-1.11.1.min.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/lumino.glyphs.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>07/21/2016 15:13:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/25/2016 11:10:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
